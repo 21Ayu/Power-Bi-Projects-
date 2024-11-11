@@ -58,12 +58,4 @@ The project uses the following datasets:
 - **Predictive Analysis**: Implement predictive models to forecast project success and potential budget overruns.
 - **Automation**: Enable automated data refreshes in Power BI to ensure real-time dashboard updates.
 
-## 📂 How to Run the Project
-1. Clone the repository.
-2. Import the provided CSV files into your SQL database.
-3. Execute the SQL scripts in the `sql_queries` folder to set up the database.
-4. Open the Power BI file (`.pbix`) and connect it to the SQL database.
-5. Explore the interactive dashboard and insights.
 
-## 📝 License
-This project is licensed under the MIT License. 

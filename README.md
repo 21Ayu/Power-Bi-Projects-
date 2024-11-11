@@ -58,10 +58,6 @@ The project uses the following datasets:
 - **Predictive Analysis**: Implement predictive models to forecast project success and potential budget overruns.
 - **Automation**: Enable automated data refreshes in Power BI to ensure real-time dashboard updates.
 
-## 📈 Dashboard Preview
-![Data Visualization board](https://github.com/user-attachments/assets/da1d4ca2-729d-444b-9c6b-b590af8a62f9)
-
-
 ## 📂 How to Run the Project
 1. Clone the repository.
 2. Import the provided CSV files into your SQL database.

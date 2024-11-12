@@ -30,10 +30,7 @@ This project showcases a complete data analysis workflow, from data ingestion an
    - Applied custom formatting, color schemes, and slicers for an intuitive user experience.
   
  ##  - Projects Insights
-### **Week-On-Week Change**:
-- Revenue increased by 28%.
-- Total Transaction amount and count increased by 15% &  20% .
-- Customer count increased by  10% .
+
 
 ### **Overview**:
 * Overall revenue is 11M .

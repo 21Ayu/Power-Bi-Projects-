@@ -45,7 +45,8 @@ This project showcases a complete data analysis workflow, from data ingestion an
 * Overall activation rate is   57.5% .
 * Overall delinquent rate is  6.06% .
 
-**Dashboard Preview**-![Screenshot (1890)](https://github.com/user-attachments/assets/59af5b4e-e049-4134-a71f-5e1836880b8c)
+**Dashboard Preview**-![Screenshot (1891)](https://github.com/user-attachments/assets/51b4f11b-9b27-4a17-85e2-47cef595a74b)
+
 
 
 

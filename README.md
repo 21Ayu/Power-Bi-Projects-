@@ -26,7 +26,7 @@ This project showcases a complete data analysis workflow, from data ingestion an
    - Created relationships between tables in Power BI to enable comprehensive data analysis.
 
 3. **Dashboard Creation**:
-   - Designed an interactive dashboard to visualize key metrics such as project costs, budget variance, and employee details.
+   - Designed an interactive dashboard to visualize key metrics such as total revenue, income group, and place of residence among others.
    - Applied custom formatting, color schemes, and slicers for an intuitive user experience.
   
  ##  - Projects Insights
@@ -36,12 +36,12 @@ This project showcases a complete data analysis workflow, from data ingestion an
 - Customer count increased by  10% .
 
 ### **Overview**:
-* Overall revenue is 57M .
+* Overall revenue is 11M .
 * Total interest is 8M  .
-* Total Transaction amount is  46M.
-* Male and female customers are contributoiong to Revenue 5.34 and 5M.
+* Total Transaction amount is  45M.
+* Male and female customers  contribution to Revenue is almost in equal  ratio i.e 5M each
 * Blue and Silve credit card are contributing to of overall transactions  93%.
-* TX,NY & CA is contributing to 68% .
+* TX,NY & CA is contributing to 70% .
 * Overall activation rate is   57.5% .
 * Overall delinquent rate is  6.06% .
 

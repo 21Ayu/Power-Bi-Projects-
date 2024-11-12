@@ -1,4 +1,4 @@
-# Power-Bi-Projects-
+# Power-Bi-Project-Credit Card Financials Dashboard 
 
 # 💼 End-to-End Data Analysis Project: SQL to Power BI
 
@@ -28,12 +28,25 @@ This project showcases a complete data analysis workflow, from data ingestion an
 3. **Dashboard Creation**:
    - Designed an interactive dashboard to visualize key metrics such as project costs, budget variance, and employee details.
    - Applied custom formatting, color schemes, and slicers for an intuitive user experience.
+  
+ ##  - Projects Insights
+### **Week-On-Week Change**:
+- Revenue increased by  .
+- Total Transaction amount and count increased by  &   .
+- Customer count increased by   .
+
+### **Overview**:
+* Overall revenue is  .
+* Total interest is   .
+* Total Transaction amount is  .
+* Male and female customers are contributoiong to Revenue   .
+* Blue and Silve credit card are contributing to of overall transactions   .
+* TX,NY & CA is contributing to 60%
+* Overall activation rate is   .
+* Overall delinquent rate is   .
+
+**Dashboard Preview**-![Screenshot (1890)](https://github.com/user-attachments/assets/59af5b4e-e049-4134-a71f-5e1836880b8c)
 
 
-
-## 🎯 Future Enhancements
-- **Data Granularity**: Include monthly or quarterly data for more detailed trend analysis.
-- **Predictive Analysis**: Implement predictive models to forecast project success and potential budget overruns.
-- **Automation**: Enable automated data refreshes in Power BI to ensure real-time dashboard updates.
 
 

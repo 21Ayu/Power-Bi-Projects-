@@ -31,19 +31,19 @@ This project showcases a complete data analysis workflow, from data ingestion an
   
  ##  - Projects Insights
 ### **Week-On-Week Change**:
-- Revenue increased by  .
-- Total Transaction amount and count increased by  &   .
-- Customer count increased by   .
+- Revenue increased by 28%.
+- Total Transaction amount and count increased by 15% &  20% .
+- Customer count increased by  10% .
 
 ### **Overview**:
-* Overall revenue is  .
-* Total interest is   .
-* Total Transaction amount is  .
-* Male and female customers are contributoiong to Revenue   .
-* Blue and Silve credit card are contributing to of overall transactions   .
-* TX,NY & CA is contributing to 60%
-* Overall activation rate is   .
-* Overall delinquent rate is   .
+* Overall revenue is 57M .
+* Total interest is 8M  .
+* Total Transaction amount is  46M.
+* Male and female customers are contributoiong to Revenue 5.34 and 5M.
+* Blue and Silve credit card are contributing to of overall transactions  93%.
+* TX,NY & CA is contributing to 68% .
+* Overall activation rate is   57.5% .
+* Overall delinquent rate is  6.06% .
 
 **Dashboard Preview**-![Screenshot (1890)](https://github.com/user-attachments/assets/59af5b4e-e049-4134-a71f-5e1836880b8c)
 

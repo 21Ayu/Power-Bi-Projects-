@@ -4,7 +4,7 @@
 
 ## 📋 Project Overview
 
-This project showcases a complete data analysis workflow, from data ingestion and transformation using SQL to visualization and interactive dashboard creation in Power BI. The objective is to provide actionable insights into Credit card transactions and customer data.
+This project showcases a complete data analysis workflow, from data ingestion and transformation using SQL to visualization and interactive dashboard creation in Power BI. The objective is to provide actionable insights into the Credit card transactions and customer data.
 
 
 
